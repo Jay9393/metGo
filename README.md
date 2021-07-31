@@ -1,5 +1,5 @@
 # metGo
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d04675fa-b8b5-456e-9513-ada606fff2a8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d04675fa-b8b5-456e-9513-ada606fff2a8/Untitled.png)
+![https://i.esdrop.com/d/zs6rmghn8r21/BhmHenzxso.png](https://i.esdrop.com/d/zs6rmghn8r21/BhmHenzxso.png)
 
 metGo **프로젝트 Front-end / Back-end 소개**
 
