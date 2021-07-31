@@ -1,4 +1,4 @@
-# metGo
+
 ![https://i.esdrop.com/d/zs6rmghn8r21/BhmHenzxso.png](https://i.esdrop.com/d/zs6rmghn8r21/BhmHenzxso.png)
 
 metGo **프로젝트 Front-end / Back-end 소개**
